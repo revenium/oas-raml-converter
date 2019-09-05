@@ -1,4 +1,7 @@
-# OAS RAML Converter [![npm version](https://badge.fury.io/js/oas-raml-converter.svg)](https://www.npmjs.com/package/oas-raml-converter)
+# OAS RAML Converter (DEPRECATED) [![npm version](https://badge.fury.io/js/oas-raml-converter.svg)](https://www.npmjs.com/package/oas-raml-converter)
+
+# Deprecation Notice
+**This project has been deprecated and is no longer maintained. Please use [WebAPI Parser](https://github.com/raml-org/webapi-parser) converter instead. https://github.com/raml-org/webapi-parser**
 
 ### Master [![Build Status](https://travis-ci.org/mulesoft/oas-raml-converter.svg?branch=master)](https://travis-ci.org/mulesoft/oas-raml-converter) [![Coverage Status](https://coveralls.io/repos/github/mulesoft/oas-raml-converter/badge.svg?branch=master)](https://coveralls.io/github/mulesoft/oas-raml-converter?branch=master) 
 
