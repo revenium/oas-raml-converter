@@ -9,3 +9,4 @@ temp.json
 /npm-debug.log
 .vscode
 *.iml
+.aider*
